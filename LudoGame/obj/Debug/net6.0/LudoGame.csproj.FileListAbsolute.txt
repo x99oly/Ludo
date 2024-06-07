@@ -1,0 +1,14 @@
+E:\LocalRepository\Ludo\LudoGame\bin\Debug\net6.0\LudoGame.exe
+E:\LocalRepository\Ludo\LudoGame\bin\Debug\net6.0\LudoGame.deps.json
+E:\LocalRepository\Ludo\LudoGame\bin\Debug\net6.0\LudoGame.runtimeconfig.json
+E:\LocalRepository\Ludo\LudoGame\bin\Debug\net6.0\LudoGame.dll
+E:\LocalRepository\Ludo\LudoGame\bin\Debug\net6.0\LudoGame.pdb
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.AssemblyInfoInputs.cache
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.AssemblyInfo.cs
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.csproj.CoreCompileInputs.cache
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.dll
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\refint\LudoGame.dll
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.pdb
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\LudoGame.genruntimeconfig.cache
+E:\LocalRepository\Ludo\LudoGame\obj\Debug\net6.0\ref\LudoGame.dll
