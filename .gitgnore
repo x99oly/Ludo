@@ -1,0 +1,50 @@
+# Visual Studio
+.vscode/
+.vscode/*
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# Coverage Analysis results
+coverage/
+
+# Buildscript-generated files
+build/
+!src/**/build/
+.gradle/
+.gradle-wrapper.jar
+
+# Mono
+mono_crash.*
